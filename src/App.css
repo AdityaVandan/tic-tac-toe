@@ -3,6 +3,9 @@
 }
 
 .App-logo {
+  background-color: wheat;
+  position: inherit;
+  display: block;
   height: 40vmin;
   pointer-events: none;
 }
